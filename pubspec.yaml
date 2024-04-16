@@ -68,8 +68,17 @@ flutter:
   - assets/images/ellipse 15.png
   - assets/images/ellipse 16.png
   - assets/images/tcs.png
-  - assets/images/Report Card.png
-  - assets/images/Curriculum.png
+  - assets/images/Vector.png
+  - assets/images/Vector (2).png
+  - assets/images/Group.png
+  - assets/images/Vector (3).png
+  - assets/images/accenture.png
+  - assets/images/atlassian.png
+  - assets/images/deloitte.png
+  - assets/images/cognizant.png
+  - assets/images/Vector (1).png
+  - assets/images/report card.png
+  - assets/images/curriculam.png
   - assets/images/Rectangle 77.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
